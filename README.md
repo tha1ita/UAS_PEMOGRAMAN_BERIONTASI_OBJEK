@@ -1,0 +1,3 @@
+RecallFlip merupakan sebuah game memory berbasis Python yang dibangun menggunakan library Pygame. Permainan ini mengharuskan pemain untuk mencocokkan pasangan kartu yang memiliki nilai sama dalam waktu secepat mungkin. Program ini dirancang dengan pendekatan Object Oriented Programming (OOP) agar struktur kode lebih rapi, mudah dipahami, dan mudah dikembangkan.
+
+Pada bagian awal program, beberapa library penting diimpor, yaitu pygame sebagai engine utama game, random untuk mengacak kartu, time untuk menghitung durasi permainan, sys untuk keluar dari program, serta modul abc yang digunakan untuk menerapkan konsep kelas abstrak. Setelah itu, pygame diinisialisasi agar seluruh fitur seperti grafik, suara, dan input dapat digunakan.
